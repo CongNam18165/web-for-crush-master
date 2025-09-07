@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Em đã bắt đầu thấy thích anh r đó <3",
   text7: "Lí do nào mà em thích anh thế :vvv",
   text8: "Gửi cho anh Công Nam <3",
-  text9: "Vì anh đẹp trai và dễ thương vô cùng tận :>>",
+  text9: "Vì anh tâm lý và chiều chuộng ny vô cùng tận :>>",
   text10: "Anh biết mà ^^ hẹ hẹ",
   text11:
     "Tối nay anh qua đón em đi chơi nhaa. Nếu e vẫn còn ngại thì đừng lo đến đó sẽ hết ngại nha :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
